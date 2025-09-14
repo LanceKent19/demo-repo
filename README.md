@@ -1,1 +1,3 @@
-# demo-repo
+# Example of Git
+
+hehe.
